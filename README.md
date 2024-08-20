@@ -1,5 +1,10 @@
+
 # Rockstar Dataton
 Hello! This was our team's submission for the 2024 Break Through Tech x Rockstar Games Datathon. Through the 4 hour session, we were able to uncover various amounts of insights over a given data set regarding player statistics. This project was worked on by Jawad Kabir, Simona Isakova, Samin Chowdhury, and Shreya Narayannan.
+
+![](https://github.com/joewadk/Rockstar_Datathon/blob/master/gifs/rockstar.gif)
+
+
 # About the Data
 ### Overview
 
